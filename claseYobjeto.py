@@ -74,4 +74,4 @@ print(dir(objeto))
 
 print("hola");
 
-print("reintentando");
+
