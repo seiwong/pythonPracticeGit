@@ -11,4 +11,4 @@ nuevoEstudiante= Estudiante("Victor", "Cruz", 17)
 
 print(f"{nuevoEstudiante !r} ")
 
-print("reintentando");
+print("probando push");

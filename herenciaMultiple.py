@@ -33,4 +33,4 @@ movil = Smartphone()
 
 print(movil.tomarFoto());
 
-print("reintentando");
+print("probando push");
