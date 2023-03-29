@@ -15,4 +15,5 @@ class Pastel:
     def PastelVainilla(cls):
         return cls(['harina', 'leche', 'vainilla'])
     
-print(Pastel.PastelChocolate())
+print(Pastel.PastelChocolate());
+print("reintentando");

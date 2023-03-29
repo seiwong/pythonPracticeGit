@@ -31,4 +31,6 @@ class Smartphone(Telefono,Camara,Reproduccion):
 
 movil = Smartphone()
 
-print(movil.tomarFoto())
+print(movil.tomarFoto());
+
+print("reintentando");

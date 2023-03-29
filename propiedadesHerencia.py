@@ -31,3 +31,5 @@ empleadoUno = Empleado("Victor", 3000)
 empleadoUno.nombre = "Sara"
 print(empleadoUno.nombre, empleadoUno.salario)
 help(empleadoUno)
+
+print("reintentando");

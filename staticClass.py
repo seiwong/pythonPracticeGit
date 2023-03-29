@@ -18,3 +18,5 @@ class Pastel:
 nuevoPastel = Pastel(['harina', 'azucar', 'leche', 'crema'],4)
 
 print(f"el area del pastel es: {nuevoPastel.tamanio_area(12)}")
+
+print("reintentando");

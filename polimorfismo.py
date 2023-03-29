@@ -97,4 +97,6 @@ objAveUno = Aguila()
 objAveUno.volar()
 
 objAveDos = Gallina()
-objAveDos.volar()
+objAveDos.volar();
+
+print("reintentando");
